@@ -1,6 +1,6 @@
 # Space-Agency-Data-Hub
 REST api developed in Java using:
- - Srping Boot
+ - Spring Boot
  - Hibernate
  - H2
  - Maven
